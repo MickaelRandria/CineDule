@@ -1,0 +1,1971 @@
+{
+  "date": "2026-10-09",
+  "cinemas": {
+    "P0087": "UGC Ciné Cité Bordeaux",
+    "W3330": "UGC Ciné Cité Bassins à flot",
+    "P0425": "UGC Talence"
+  },
+  "movies": [
+    {
+      "id": "1000023068",
+      "title": "Malfaisante",
+      "originalTitle": "Other Mommy",
+      "runtime": "1h 34min",
+      "genres": [
+        "Epouvante-horreur"
+      ],
+      "synopsis": "MALFAISANTE nous entraine dans l’univers de la très jeune Bela, dont le quotidien se détériore de jour en jour en raison de la relation qu’elle entretient, au cœur de sa propre maison, avec une entité malveillante qui ressemble étrangement à sa propre mère.",
+      "poster": "https://fr.web.img5.acsta.net/img/9e/c5/9ec5c971224bc443153c1a8da6c73e07.jpg"
+    },
+    {
+      "id": "285141",
+      "title": "L'Espèce explosive",
+      "originalTitle": "L'Espèce explosive",
+      "runtime": "1h 35min",
+      "genres": [
+        "Comédie",
+        "Policier"
+      ],
+      "synopsis": "Dans la campagne du Nord-Est de la France. Les sangliers qui ravagent les cultures provoquent une guerre ouverte entre chasseurs et agriculteurs. Brun, céréalier en faillite, lutte pour maintenir sa ferme à flot. Quand un notable du coin le pousse à bout, il déraille et disparaît. Un an plus tard, Fulda, un gendarme corse muté dans la région pour raisons disciplinaires, mène l’enquête. Entre intuitions fulgurantes et ratés spectaculaires, ses méthodes approximatives le mènent sur la piste des Attilas, des sangliers aux dimensions hors normes. Mais sa récente rupture amoureuse et la vodka dans laquelle flotte son cerveau n’aident pas. Heureusement, il y a Stéphane, la nouvelle psy de la gendarmerie : elle est là pour mettre un peu d’ordre dans son chaos — à moins que ce ne soit l’inverse ?",
+      "poster": "https://fr.web.img2.acsta.net/img/45/96/4596f21ac87015ae6a3a4e833db30ba9.jpg"
+    },
+    {
+      "id": "1000023992",
+      "title": "Ni vue, ni connue",
+      "originalTitle": "Ni vue, ni connue",
+      "runtime": "1h 55min",
+      "genres": [
+        "Comédie"
+      ],
+      "synopsis": "Corinne Maclou est figurante. Elle enchaîne les tournages avec l’espoir d’être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu’une relation commence à se nouer entre les deux, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l’aider à se faire une place au sein de la grande famille du cinéma ?",
+      "poster": "https://fr.web.img6.acsta.net/img/04/d2/04d24a4f7815a30efe7dd1202384832f.jpg"
+    },
+    {
+      "id": "1000031247",
+      "title": "La Maison de nos rêves",
+      "originalTitle": "La Maison de nos rêves",
+      "runtime": "1h 30min",
+      "genres": [
+        "Comédie"
+      ],
+      "synopsis": "Un jeune couple pense avoir enfin trouvé la solution miracle pour devenir propriétaire : Un Viager, une maison sublime au bord du lac, une dame mourante, bref, le plan parfait. Mais une fois le contrat signé la dame va beaucoup mieux et va transformer leur rêve immobilier en véritable cauchemar.",
+      "poster": "https://fr.web.img3.acsta.net/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg"
+    },
+    {
+      "id": "1000026649",
+      "title": "The Social Reckoning",
+      "originalTitle": "The Social Reckoning",
+      "runtime": "1h 52min",
+      "genres": [
+        "Drame"
+      ],
+      "synopsis": "Le film s'inspire de l'histoire vraie d'une jeune ingénieure chez Facebook, qui sollicite l'aide d'un journaliste au Wall Street Journal. Ensemble, ils se lancent dans une enquête pour révéler les secrets les mieux gardés du puissant réseau social.",
+      "poster": "https://fr.web.img6.acsta.net/img/9e/55/9e553042ac8f31f580cb0540fae60dc4.jpg"
+    },
+    {
+      "id": "1000019249",
+      "title": "Ducobu et le fantôme de Saint-Potache",
+      "originalTitle": "Ducobu et le fantôme de Saint-Potache",
+      "runtime": "1h 30min",
+      "genres": [
+        "Comédie",
+        "Famille"
+      ],
+      "synopsis": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères ! Le professeur Latouche et Mademoiselle Rateau emménagent dans une maison… hantée par le ​ fantôme d'Anatole, le plus grand cancre de l’histoire de l’école Saint-Potache.",
+      "poster": "https://fr.web.img6.acsta.net/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg"
+    },
+    {
+      "id": "145083",
+      "title": "Hunger Games",
+      "originalTitle": "The Hunger Games",
+      "runtime": "2h 22min",
+      "genres": [
+        "Action",
+        "Drame",
+        "Science Fiction"
+      ],
+      "synopsis": "Dans le futur, le gouvernement fédéral des USA exige de chacun de ses 12 districts qu'il envoie un jeune garçon et une jeune fille pour participer aux Hunger Games, un combat à mort retransmis en direct à la télévision.",
+      "poster": "https://fr.web.img5.acsta.net/img/11/0c/110cf16404f5660a06ce3f707a4b3efc.jpg"
+    },
+    {
+      "id": "1000000085",
+      "title": "Heart Of The Beast",
+      "originalTitle": "Heart Of The Beast",
+      "runtime": "1h 41min",
+      "genres": [
+        "Action",
+        "Aventure"
+      ],
+      "synopsis": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi magnifique qu’impitoyable, ils devront puiser dans leurs dernières forces pour survivre ensemble.",
+      "poster": "https://fr.web.img2.acsta.net/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg"
+    },
+    {
+      "id": "327174",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "runtime": "2h 09min",
+      "genres": [
+        "Action",
+        "Comédie"
+      ],
+      "synopsis": "L’homme le plus puissant au monde se lance dans une mission effrénée pour s'ériger en sauveur de l’humanité avant que la catastrophe, qu’il a lui-même déclenchée, n’anéantisse la planète.",
+      "poster": "https://fr.web.img3.acsta.net/img/ca/46/ca467fa6a145bb9d8fda93417d4374cf.jpg"
+    },
+    {
+      "id": "327941",
+      "title": "La Vie d'une femme",
+      "originalTitle": "La Vie d'une femme",
+      "runtime": "1h 38min",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
+      "poster": "https://fr.web.img6.acsta.net/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg"
+    },
+    {
+      "id": "1000004458",
+      "title": "Pressure",
+      "originalTitle": "Pressure",
+      "runtime": "1h 40min",
+      "genres": [
+        "Thriller",
+        "Historique",
+        "Guerre"
+      ],
+      "synopsis": "Trois jours avant le Jour J, une seule décision peut changer le cours de l’Histoire. Alors que les Alliés s’apprêtent à lancer le plus grand débarquement jamais organisé, une violente tempête menace de faire échouer l’opération. ",
+      "poster": "https://fr.web.img2.acsta.net/img/92/fb/92fb57911489ab17bfa8ecf0b29712c5.jpg"
+    },
+    {
+      "id": "1000032855",
+      "title": "Kraken",
+      "originalTitle": "Kraken",
+      "runtime": "0h 00min",
+      "genres": [
+        "Epouvante-horreur"
+      ],
+      "synopsis": "Dans une cité, une tour abandonnée alimente les rumeurs. Alors que des disparitions étranges s'enchaînent, 5 jeunes n’ont plus le choix : y entrer à nouveau. Pris dans un piège mortel, ils vont bientôt comprendre que s'échapper leur sera impossible…",
+      "poster": "https://fr.web.img3.acsta.net/img/cc/22/cc222386da3f11bb9ae1dae2d1bc65bd.jpg"
+    },
+    {
+      "id": "1000026622",
+      "title": "Raison et sentiments",
+      "originalTitle": "Sense and Sensibility",
+      "runtime": "2h 12min",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Historique"
+      ],
+      "synopsis": "Adaptation de Raison et sentiments de Jane Austen.",
+      "poster": "https://fr.web.img5.acsta.net/img/25/06/25065d844cf983b62abba5f0ca2c1a64.jpg"
+    },
+    {
+      "id": "1000018854",
+      "title": "Resident Evil",
+      "originalTitle": "Resident Evil",
+      "runtime": "1h 37min",
+      "genres": [
+        "Science Fiction",
+        "Epouvante-horreur",
+        "Thriller"
+      ],
+      "synopsis": "Bryan, coursier médical, s'engage dans une course effrénée pour survivre, alors qu'autour de lui le monde s'enfonce dans un chaos total.",
+      "poster": "https://fr.web.img4.acsta.net/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg"
+    },
+    {
+      "id": "1000026039",
+      "title": "Garance",
+      "originalTitle": "Garance",
+      "runtime": "1h 55min",
+      "genres": [
+        "Drame"
+      ],
+      "synopsis": "Garance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements, de travail, de rencontres, de fêtes et d’angoisses, de joies et de coups durs… Mais aussi une révolution intime, amicale et sexuelle.",
+      "poster": "https://fr.web.img3.acsta.net/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg"
+    },
+    {
+      "id": "1000013908",
+      "title": "Primetime",
+      "originalTitle": "Primetime",
+      "runtime": "1h 49min",
+      "genres": [
+        "Policier",
+        "Biopic"
+      ],
+      "synopsis": "En 2006, Chris Hansen, le présentateur de l'émission To Catch a Predator, entreprend de marquer l’histoire de la télévision.",
+      "poster": "https://fr.web.img2.acsta.net/img/b2/33/b2335224732f2a74fd22019277712f13.jpg"
+    },
+    {
+      "id": "1000007388",
+      "title": "Notre salut",
+      "originalTitle": "Notre salut",
+      "runtime": "2h 39min",
+      "genres": [
+        "Drame",
+        "Historique"
+      ],
+      "synopsis": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants. Il voit dans la nouvelle administration l’opportunité de trouver enfin la place qu’il mérite. Dans sa valise, son traité politique édité à compte d’auteur, Notre Salut, où il défend ses convictions patriotiques et ses méthodes d'ingénieur. Son credo : « gagner en efficacité » pour relever la France de la débâcle. Mais peut-être qu’Henri cherche avant tout à fuir sa propre débâcle…",
+      "poster": "https://fr.web.img4.acsta.net/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg"
+    },
+    {
+      "id": "294281",
+      "title": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
+      "originalTitle": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
+      "runtime": "2h 40min",
+      "genres": [
+        "Thriller",
+        "Historique"
+      ],
+      "synopsis": "Juin 1940. La France s'effondre et signe l’armistice. Au milieu du chaos, un homme refuse de céder. Seul contre tous, ce général inconnu s'échappe vers Londres pour sauver ce qu'il reste d'un rêve : la liberté.",
+      "poster": "https://fr.web.img5.acsta.net/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg"
+    },
+    {
+      "id": "1000015739",
+      "title": "Verity",
+      "originalTitle": "Verity",
+      "runtime": "1h 54min",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Thriller"
+      ],
+      "synopsis": "Peinant à vivre de son métier, Lowen Ashleigh est une écrivaine qui accepte de devenir le prête-plume de l'autrice à succès Verity Crawford. Elle s'installe dans sa propriété, où elle est confrontée à des révélations inquiétantes concernant le mari de Verity. ",
+      "poster": "https://fr.web.img6.acsta.net/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg"
+    },
+    {
+      "id": "1000036867",
+      "title": "Avengers : Endgame Extended",
+      "originalTitle": "Avengers Endgame: Encore",
+      "runtime": "3h 05min",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Science Fiction"
+      ],
+      "synopsis": "Dans Avengers Endgame Extended, les Avengers doivent faire face aux conséquences de leur défaite contre Thanos. Après avoir réuni les six Pierres d’Infinité et anéanti la moitié de la population de l’univers, dont nombre de leurs alliés, le Titan fou a laissé derrière lui un monde profondément bouleversé. Confrontés à la plus grande épreuve de leur histoire, les héros restants doivent trouver la force de se relever, se rassembler une nouvelle fois et tenter l’impossible : restaurer l’équilibre de l’univers, ramener ceux qu’ils ont perdus et vaincre Thanos une fois pour toutes.",
+      "poster": "https://fr.web.img4.acsta.net/img/53/e1/53e1e6f2d34748e3f07d101e103dbfb6.jpg"
+    },
+    {
+      "id": "1000026296",
+      "title": "Mémoire de fille",
+      "originalTitle": "Mémoire de fille",
+      "runtime": "1h 57min",
+      "genres": [
+        "Drame"
+      ],
+      "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu'elle s'y rend, elle est prise d'un vertige et replonge dans le souvenir de l'été 1958, celui de sa première nuit avec un homme.",
+      "poster": "https://fr.web.img5.acsta.net/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg"
+    },
+    {
+      "id": "1000043221",
+      "title": "Si tu penses bien",
+      "originalTitle": "Si tu penses bien",
+      "runtime": "1h 34min",
+      "genres": [
+        "Drame"
+      ],
+      "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères...",
+      "poster": "https://fr.web.img6.acsta.net/img/10/ef/10ef2a762195d43d7ddaebcf19e161d4.jpg"
+    },
+    {
+      "id": "317219",
+      "title": "L'Invitation",
+      "originalTitle": "The Invite",
+      "runtime": "1h 47min",
+      "genres": [
+        "Comédie"
+      ],
+      "synopsis": "Angela et Joe invitent leurs mystérieux nouveaux voisins du dessus à dîner. La soirée va alors rapidement faire voler en éclats toutes leurs certitudes.",
+      "poster": "https://fr.web.img2.acsta.net/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg"
+    },
+    {
+      "id": "294280",
+      "title": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "originalTitle": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "runtime": "2h 40min",
+      "genres": [
+        "Thriller",
+        "Historique"
+      ],
+      "synopsis": "Juin 1940. La France s'effondre et signe l’armistice. Au milieu du chaos, un homme refuse de céder. Seul contre tous, ce général inconnu s'échappe vers Londres pour sauver ce qu'il reste d'un rêve : la liberté. ",
+      "poster": "https://fr.web.img6.acsta.net/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg"
+    },
+    {
+      "id": "1000013045",
+      "title": "L'Odyssée",
+      "originalTitle": "The Odyssey",
+      "runtime": "2h 53min",
+      "genres": [
+        "Action",
+        "Fantastique"
+      ],
+      "synopsis": "L’Odyssée est une épopée mythique tournée à travers le monde qui suit le retour d'Ulysse vers Ithaque. Pour la première fois, la saga fondatrice d'Homère est portée sur les écrans de manière spectaculaire avec la toute dernière technologie IMAX. ",
+      "poster": "https://fr.web.img6.acsta.net/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg"
+    },
+    {
+      "id": "1000028234",
+      "title": "Obsession",
+      "originalTitle": "Obsession",
+      "runtime": "1h 49min",
+      "genres": [
+        "Epouvante-horreur"
+      ],
+      "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsession la plus totale. Faites attention à ce que vous souhaitez !",
+      "poster": "https://fr.web.img6.acsta.net/img/00/20/0020008382daf6b1305be800e8342a72.jpg"
+    },
+    {
+      "id": "1000028944",
+      "title": "Justin le Juste",
+      "originalTitle": "Justin le Juste",
+      "runtime": "1h 50min",
+      "genres": [
+        "Historique",
+        "Guerre"
+      ],
+      "synopsis": "Pendant la Première Guerre mondiale, l’histoire d’un paysan naïf enrôlé de force dans l’armée française.",
+      "poster": "https://fr.web.img6.acsta.net/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg"
+    },
+    {
+      "id": "1000032856",
+      "title": "Tombé du ciel",
+      "originalTitle": "Tombé du ciel",
+      "runtime": "1h 32min",
+      "genres": [
+        "Comédie",
+        "Famille"
+      ],
+      "synopsis": "Ilyes mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : le bac. Après avoir échoué deux fois, c’est sa dernière chance de l’avoir et de rendre enfin fier ses parents. Mais un incendie survient pendant le bac blanc, et on l’accuse d’en être à l’origine… Exclu de son lycée, il doit quitter son quartier et aller dans le seul établissement qui l’accepte : le pensionnat catholique de Saint-Albert-le-Grand, en Bourgogne. Entre choc des cultures et quête de rédemption, Ilyes va devoir surmonter ses préjugés… Et ceux des autres. ",
+      "poster": "https://fr.web.img5.acsta.net/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg"
+    },
+    {
+      "id": "1000037846",
+      "title": "Détective Conan : L'Ange déchu de l'asphalte",
+      "originalTitle": "Meitantei Conan: Highway no Datenshi",
+      "runtime": "1h 50min",
+      "genres": [
+        "Animation",
+        "Policier",
+        "Aventure",
+        "Action"
+      ],
+      "synopsis": "Alors qu'ils se rendent à un festival de moto à Kanagawa, Conan Edogawa et ses amis se font dépasser par une mystérieuse moto noire filant à toute allure sur l’autoroute. La « Déesse du vent », Chihaya Hagiwara, officier de la police routière de Kanagawa, est lancée à ses trousses. Malgré une poursuite acharnée, Chihaya manque de capturer le mystérieux pilote et sa moto est sévèrement endommagée. ",
+      "poster": "https://fr.web.img2.acsta.net/img/da/e4/dae4795cdfd54f5ebbdb34fe22455015.jpg"
+    },
+    {
+      "id": "6429",
+      "title": "Akira",
+      "originalTitle": "Akira",
+      "runtime": "2h 04min",
+      "genres": [
+        "Animation",
+        "Science Fiction",
+        "Action",
+        "Drame"
+      ],
+      "synopsis": "Juillet 1988. L’utilisation d’une nouvelle arme de destruction massive dans la région du Kantō, au Japon, déclenche la Troisième Guerre mondiale. 2019, trente et un ans plus tard. Alors que les préparatifs des Jeux olympiques de l’année suivante ravivent le souvenir de la grandeur passée de Neo-Tokyo, mégalopole bâtie sur la baie de Tokyo, Kaneda, chef d’un gang de bōsōzoku justiciers, sillonne à moto les rues dévastées de la ville et sème le chaos. Une nuit, Tetsuo, membre du gang, croise la route d’un étrange garçon lié à un programme expérimental du gouvernement. Sous les yeux médusés de Kaneda et de sa bande, Tetsuo et le mystérieux garçon sont emmenés dans un laboratoire militaire. Déterminé à sauver son ami, Kaneda s’infiltre dans l’installation, où il découvre que Tetsuo a développé des pouvoirs surnaturels. Pendant ce temps, l’un des enfants du laboratoire prédit le réveil d’AKIRA, le secret le mieux gardé du gouvernement. En quête de réponses sur ses nouveaux pouvoirs, Tetsuo descend dans les profondeurs de Neo-Tokyo, où AKIRA est endormi depuis des années.",
+      "poster": "https://fr.web.img4.acsta.net/img/15/bf/15bf220d29691722e98298080cccdfb7.jpg"
+    },
+    {
+      "id": "276608",
+      "title": "Spider-Man: Brand New Day",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "runtime": "2h 25min",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Fantastique",
+        "Science Fiction"
+      ],
+      "synopsis": "C’est un tout nouveau jour pour Peter Parker Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité. Mais le sentiment d’avoir été oublié par ses amis qui avancent désormais sans lui provoque un changement chez Peter qu’il n’est peut-être pas en mesure de contrôler. Et pourtant, c’est cette mutation qui pourrait être sa seule chance de s’opposer à un adversaire terrifiant, capable d’agir sans jamais être repéré et prêt à s’attaquer à la ville et à tous les proches de Spider-Man. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
+      "poster": "https://fr.web.img5.acsta.net/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg"
+    }
+  ],
+  "sessions": [
+    {
+      "movieId": "1000000085",
+      "cinema": "P0087",
+      "time": "13:25",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404408&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000036867",
+      "cinema": "W3330",
+      "time": "13:25",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238446&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "285141",
+      "cinema": "P0087",
+      "time": "13:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404133&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0087",
+      "time": "13:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404026&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327941",
+      "cinema": "P0087",
+      "time": "13:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404037&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000004458",
+      "cinema": "P0087",
+      "time": "13:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404525&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "W3330",
+      "time": "13:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238466&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "W3330",
+      "time": "13:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238330&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000028944",
+      "cinema": "W3330",
+      "time": "13:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238624&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "P0425",
+      "time": "13:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286751&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0425",
+      "time": "13:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287045&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000032855",
+      "cinema": "P0087",
+      "time": "13:35",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404577&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026622",
+      "cinema": "P0087",
+      "time": "13:35",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404491&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0425",
+      "time": "13:35",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286950&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0425",
+      "time": "13:35",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286741&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0087",
+      "time": "13:40",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404456&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "W3330",
+      "time": "13:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238286&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "P0425",
+      "time": "13:40",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287166&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026039",
+      "cinema": "P0425",
+      "time": "13:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287118&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "294281",
+      "cinema": "P0425",
+      "time": "13:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287170&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023992",
+      "cinema": "P0087",
+      "time": "13:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404104&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000028944",
+      "cinema": "P0425",
+      "time": "13:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286936&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026039",
+      "cinema": "P0087",
+      "time": "13:50",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404256&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013908",
+      "cinema": "P0087",
+      "time": "13:50",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404321&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0087",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404175&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "P0087",
+      "time": "14:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404094&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000007388",
+      "cinema": "P0087",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404308&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "294281",
+      "cinema": "P0087",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404641&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "W3330",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238568&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "W3330",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238429&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "W3330",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238492&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "W3330",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238358&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "294280",
+      "cinema": "W3330",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238592&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026622",
+      "cinema": "W3330",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238663&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000032856",
+      "cinema": "W3330",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238208&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000037846",
+      "cinema": "W3330",
+      "time": "14:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238374&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0425",
+      "time": "14:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287082&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026622",
+      "cinema": "P0425",
+      "time": "14:05",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287176&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "P0087",
+      "time": "14:10",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404363&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "P0425",
+      "time": "14:10",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287053&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000036867",
+      "cinema": "P0087",
+      "time": "14:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404253&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023992",
+      "cinema": "P0425",
+      "time": "14:15",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287138&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026296",
+      "cinema": "P0087",
+      "time": "14:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404604&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "P0425",
+      "time": "15:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286774&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0087",
+      "time": "15:35",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404401&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "285141",
+      "cinema": "P0087",
+      "time": "15:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404140&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000032855",
+      "cinema": "P0087",
+      "time": "15:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404581&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000043221",
+      "cinema": "P0087",
+      "time": "15:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404532&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "317219",
+      "cinema": "P0087",
+      "time": "15:40",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404044&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "W3330",
+      "time": "15:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238337&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0425",
+      "time": "15:40",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287050&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0425",
+      "time": "15:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286823&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0087",
+      "time": "15:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404451&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "W3330",
+      "time": "15:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238251&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0087",
+      "time": "16:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404182&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "W3330",
+      "time": "16:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238534&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "W3330",
+      "time": "16:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238499&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000028944",
+      "cinema": "W3330",
+      "time": "16:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238619&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "W3330",
+      "time": "16:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238212&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0425",
+      "time": "16:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286803&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026039",
+      "cinema": "P0425",
+      "time": "16:10",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287111&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023992",
+      "cinema": "P0087",
+      "time": "16:15",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404111&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0087",
+      "time": "16:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404024&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "W3330",
+      "time": "16:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238471&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0425",
+      "time": "16:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286998&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "294281",
+      "cinema": "P0425",
+      "time": "16:15",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286902&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026622",
+      "cinema": "P0087",
+      "time": "16:20",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404496&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026039",
+      "cinema": "P0087",
+      "time": "16:20",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404295&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013908",
+      "cinema": "P0087",
+      "time": "16:20",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404351&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "P0087",
+      "time": "16:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404082&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "W3330",
+      "time": "16:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238413&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "6429",
+      "cinema": "W3330",
+      "time": "16:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238379&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "P0425",
+      "time": "16:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286880&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "P0087",
+      "time": "16:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404382&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "P0425",
+      "time": "16:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286990&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026296",
+      "cinema": "P0087",
+      "time": "17:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404611&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000036867",
+      "cinema": "W3330",
+      "time": "17:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238656&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "W3330",
+      "time": "17:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238293&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000036867",
+      "cinema": "P0425",
+      "time": "17:00",
+      "version": "VOSTFR",
+      "experience": [
+        "INFINITY_VISION"
+      ],
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287103&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000007388",
+      "cinema": "P0087",
+      "time": "17:15",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404667&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "294280",
+      "cinema": "P0087",
+      "time": "17:15",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404645&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013045",
+      "cinema": "W3330",
+      "time": "17:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238460&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023992",
+      "cinema": "P0425",
+      "time": "17:15",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287076&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "P0425",
+      "time": "17:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287195&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013045",
+      "cinema": "P0425",
+      "time": "17:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286854&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0087",
+      "time": "17:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404413&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000032855",
+      "cinema": "P0087",
+      "time": "17:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404541&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "276608",
+      "cinema": "W3330",
+      "time": "17:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238588&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000028944",
+      "cinema": "P0425",
+      "time": "17:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286748&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "285141",
+      "cinema": "P0087",
+      "time": "17:50",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404147&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0087",
+      "time": "17:50",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404450&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "W3330",
+      "time": "17:50",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238299&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "W3330",
+      "time": "17:50",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238693&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0425",
+      "time": "17:50",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287012&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0087",
+      "time": "18:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404189&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "P0087",
+      "time": "18:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404235&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0087",
+      "time": "18:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404058&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "W3330",
+      "time": "18:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238530&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "W3330",
+      "time": "18:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238506&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0425",
+      "time": "18:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286796&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000032856",
+      "cinema": "W3330",
+      "time": "18:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238612&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000032856",
+      "cinema": "P0425",
+      "time": "18:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287152&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0087",
+      "time": "19:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261403995&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "317219",
+      "cinema": "P0087",
+      "time": "19:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404586&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "W3330",
+      "time": "19:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238678&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "W3330",
+      "time": "19:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238217&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0425",
+      "time": "19:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286964&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026622",
+      "cinema": "P0087",
+      "time": "19:05",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404503&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023992",
+      "cinema": "P0087",
+      "time": "19:15",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404118&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "P0087",
+      "time": "19:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404376&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026039",
+      "cinema": "P0087",
+      "time": "19:20",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404288&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013908",
+      "cinema": "P0087",
+      "time": "19:20",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404344&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "P0425",
+      "time": "19:25",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287196&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "P0087",
+      "time": "19:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404069&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "W3330",
+      "time": "19:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238392&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "W3330",
+      "time": "19:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238679&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "P0425",
+      "time": "19:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286760&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "P0425",
+      "time": "19:30",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286873&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0425",
+      "time": "19:35",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286895&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000043221",
+      "cinema": "P0087",
+      "time": "19:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404618&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "W3330",
+      "time": "19:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238386&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023068",
+      "cinema": "P0087",
+      "time": "20:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": true,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261402600&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "285141",
+      "cinema": "P0087",
+      "time": "20:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404159&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0087",
+      "time": "20:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404201&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0087",
+      "time": "20:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404424&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0087",
+      "time": "20:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404473&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023068",
+      "cinema": "W3330",
+      "time": "20:00",
+      "version": "VF",
+      "experience": null,
+      "preview": true,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730237182&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "W3330",
+      "time": "20:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238537&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000019249",
+      "cinema": "W3330",
+      "time": "20:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238521&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "W3330",
+      "time": "20:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238307&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023068",
+      "cinema": "P0425",
+      "time": "20:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": true,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600285803&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0425",
+      "time": "20:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286789&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0425",
+      "time": "20:05",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286816&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013045",
+      "cinema": "P0087",
+      "time": "20:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404242&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023992",
+      "cinema": "P0425",
+      "time": "20:15",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287069&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000007388",
+      "cinema": "P0087",
+      "time": "20:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404302&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "294281",
+      "cinema": "P0087",
+      "time": "20:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404648&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "145083",
+      "cinema": "W3330",
+      "time": "20:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238683&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000036867",
+      "cinema": "W3330",
+      "time": "20:40",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238649&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0087",
+      "time": "20:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404051&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013045",
+      "cinema": "W3330",
+      "time": "20:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238451&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "276608",
+      "cinema": "W3330",
+      "time": "20:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238582&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026039",
+      "cinema": "P0425",
+      "time": "20:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287159&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "276608",
+      "cinema": "P0425",
+      "time": "20:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287171&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013045",
+      "cinema": "P0425",
+      "time": "20:50",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286847&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "W3330",
+      "time": "21:10",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238272&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "145083",
+      "cinema": "P0087",
+      "time": "21:20",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404663&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000032856",
+      "cinema": "P0425",
+      "time": "21:30",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286835&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000023992",
+      "cinema": "P0087",
+      "time": "21:45",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404125&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0087",
+      "time": "21:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404002&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "W3330",
+      "time": "21:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238478&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "327174",
+      "cinema": "P0425",
+      "time": "21:45",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286957&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026039",
+      "cinema": "P0087",
+      "time": "21:50",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404281&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "P0087",
+      "time": "21:50",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404392&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000028234",
+      "cinema": "P0087",
+      "time": "21:50",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404510&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0425",
+      "time": "21:50",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286916&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "P0425",
+      "time": "21:55",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286983&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0087",
+      "time": "22:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404194&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "P0087",
+      "time": "22:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404076&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000013908",
+      "cinema": "P0087",
+      "time": "22:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404337&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000043221",
+      "cinema": "P0087",
+      "time": "22:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404625&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "W3330",
+      "time": "22:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238544&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "W3330",
+      "time": "22:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238415&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "W3330",
+      "time": "22:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238344&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "W3330",
+      "time": "22:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238554&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000015739",
+      "cinema": "W3330",
+      "time": "22:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238237&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000026649",
+      "cinema": "P0425",
+      "time": "22:00",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286866&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000031247",
+      "cinema": "P0425",
+      "time": "22:00",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286782&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "W3330",
+      "time": "22:05",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238265&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "285141",
+      "cinema": "P0087",
+      "time": "22:10",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404152&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000032855",
+      "cinema": "P0087",
+      "time": "22:10",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404666&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0087",
+      "time": "22:10",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404466&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "W3330",
+      "time": "22:10",
+      "version": "VF",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330730238313&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0425",
+      "time": "22:10",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600287023&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000000085",
+      "cinema": "P0087",
+      "time": "22:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330261404417&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    },
+    {
+      "movieId": "1000018854",
+      "cinema": "P0425",
+      "time": "22:15",
+      "version": "VOSTFR",
+      "experience": null,
+      "preview": false,
+      "ticket": "https://www.ugc.fr/reservationSeances.html?id=330600286809&part=all&mtm_source=allocine&mtm_medium=affiliate&mtm_campaign=site_allocine"
+    }
+  ]
+}

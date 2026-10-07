@@ -1,7 +1,4 @@
 node_modules
 dist
-dist-ssr
-*.local
-.env
-.env.*
-.DS_Store
+*.tsbuildinfo
+.playwright-mcp

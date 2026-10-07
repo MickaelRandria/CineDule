@@ -12,7 +12,6 @@ type Props = {
   favs: Set<string>;
   toggle: (id: string) => void;
   onClose: () => void;
-  chosen: string | null; // séance choisie par Marie, reçue via ?choix=
 };
 
 // Le rythme d'apparition du contenu change aussi selon le film
@@ -26,11 +25,10 @@ const enter = (t: Theme, i: number) => {
   }
 };
 
-export function FilmPage({ movieId, theme: t, favs, toggle, onClose, chosen }: Props) {
+export function FilmPage({ movieId, theme: t, favs, toggle, onClose }: Props) {
   const choosable = FEATURED.includes(movieId);
   const [picking, setPicking] = useState<Session | null>(null);
   const closePick = useCallback(() => setPicking(null), []);
-  const chosenSession = sessions.find(s => sessionId(s) === chosen && s.movieId === movieId) ?? null;
   const m = movieById.get(movieId)!;
   const scroller = useRef<HTMLDivElement>(null);
   const { scrollY } = useScroll({ container: scroller });
@@ -145,35 +143,8 @@ export function FilmPage({ movieId, theme: t, favs, toggle, onClose, chosen }: P
           </motion.p>
         )}
 
-        {/* Le choix de Marie, quand on ouvre le lien qu'elle a envoyé */}
-        {chosenSession && (
-          <motion.div
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={enter(t, 3)}
-            className="mt-10 rounded-2xl p-5"
-            style={{ background: 'var(--accent)', color: 'var(--accent-fg)' }}
-          >
-            <p className="text-[11px] font-bold uppercase tracking-[0.25em] opacity-80">Le choix de Marie</p>
-            <p className="mt-2 text-[44px] font-black leading-none tracking-[-0.03em]">{chosenSession.time.replace(':', 'h')}</p>
-            <p className="mt-1.5 text-[14px] font-semibold">{cinemas[chosenSession.cinema].label} · {chosenSession.version}</p>
-            {chosenSession.ticket && (
-              <a
-                href={chosenSession.ticket}
-                target="_blank"
-                rel="noreferrer"
-                className="mt-4 inline-flex items-center gap-2 rounded-full px-4 py-2.5 text-[14px] font-bold"
-                style={{ background: 'var(--accent-fg)', color: 'var(--accent)' }}
-              >
-                Réserver les places
-                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round"><path d="M7 17 17 7M8 7h9v9" /></svg>
-              </a>
-            )}
-          </motion.div>
-        )}
-
         {/* Séances par cinéma */}
-        {choosable && !chosenSession && (
+        {choosable && (
           <motion.p
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -184,7 +155,7 @@ export function FilmPage({ movieId, theme: t, favs, toggle, onClose, chosen }: P
             Touche une séance pour la choisir.
           </motion.p>
         )}
-        <div className={`${choosable && !chosenSession ? 'mt-5' : 'mt-10'} space-y-8`}>
+        <div className={`${choosable ? 'mt-5' : 'mt-10'} space-y-8`}>
           {byCinema.map(({ code, list }, gi) => (
             <motion.section key={code} initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={enter(t, 3 + gi)}>
               <h2 className="mb-3 text-[11px] font-bold uppercase tracking-[0.25em]" style={{ color: 'var(--muted)', fontFamily: 'var(--mono)' }}>
@@ -194,15 +165,14 @@ export function FilmPage({ movieId, theme: t, favs, toggle, onClose, chosen }: P
                 {list.map(s => {
                   const id = sessionId(s);
                   const on = favs.has(id);
-                  const isChosen = id === chosen;
                   return (
                     <motion.div
                       key={id}
                       layout
                       className="relative rounded-2xl p-3.5 transition-colors"
                       style={{
-                        background: on || isChosen ? 'color-mix(in srgb, var(--accent) 18%, transparent)' : 'var(--surface)',
-                        boxShadow: isChosen ? 'inset 0 0 0 2.5px var(--accent)' : on ? 'inset 0 0 0 1.5px var(--accent)' : 'none',
+                        background: on ? 'color-mix(in srgb, var(--accent) 18%, transparent)' : 'var(--surface)',
+                        boxShadow: on ? 'inset 0 0 0 1.5px var(--accent)' : 'none',
                       }}
                     >
                       <button

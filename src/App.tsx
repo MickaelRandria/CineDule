@@ -39,8 +39,6 @@ export default function App() {
   const [cinema, setCinema] = useState<string | null>(null);
   const [open, setOpen] = useState<Open>(null);
   const [shared, setShared] = useState(false);
-  // Séance choisie par Marie, transmise dans le lien qu'elle envoie (?choix=)
-  const [chosen] = useState(() => new URLSearchParams(location.search).get('choix'));
   const [now, setNow] = useState(nowIfToday);
   const origin = useRef<Origin>({ x: innerWidth / 2, y: innerHeight / 2, el: null });
   const pushed = useRef(false);
@@ -166,7 +164,7 @@ export default function App() {
           empty={filter === 'Micka Selection' ? 'Glisse une séance vers la droite pour la garder ici.' : 'Aucune séance ne correspond.'}
         />
       </div>
-      {open && <FilmPage key={open.id} movieId={open.id} theme={open.theme} favs={favs} toggle={toggle} onClose={closeFilm} chosen={chosen} />}
+      {open && <FilmPage key={open.id} movieId={open.id} theme={open.theme} favs={favs} toggle={toggle} onClose={closeFilm} />}
     </MotionConfig>
   );
 }

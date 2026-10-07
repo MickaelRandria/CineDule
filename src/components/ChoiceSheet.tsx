@@ -1,86 +1,54 @@
 import { AnimatePresence, motion } from 'motion/react';
 import { useEffect, useState } from 'react';
-import { cinemas, dateLabel, posterAt, sessionId, type Movie, type Session } from '../data';
+import { cinemas, dateLabel, posterAt, type Movie, type Session } from '../data';
 import type { Theme } from '../themes';
 import { storyImage } from '../story';
 import { haptic } from '../transition';
 
-const INSTAGRAM = 'mickarandria';
+const INSTAGRAM = '@mickarandria';
 const EASE = [0.16, 1, 0.3, 1] as const;
 
-export const choiceLink = (s: Session) => {
-  const u = new URL(location.origin + location.pathname);
-  u.searchParams.set('film', s.movieId);
-  u.searchParams.set('choix', sessionId(s));
-  return u.toString();
-};
-
-const messageFor = (m: Movie, s: Session) =>
-  `Mon choix pour vendredi soir : ${m.title}, ${s.time.replace(':', 'h')} à l'${cinemas[s.cinema].label} (${s.version}).\n${choiceLink(s)}`;
-
-// Le navigateur intégré d'Instagram ne garantit pas l'API presse-papiers : repli sur execCommand
-async function copy(text: string) {
-  try {
-    await navigator.clipboard.writeText(text);
-    return true;
-  } catch {
-    const ta = document.createElement('textarea');
-    ta.value = text;
-    ta.setAttribute('readonly', '');
-    ta.style.cssText = 'position:fixed;opacity:0;top:0;left:0';
-    document.body.append(ta);
-    ta.select();
-    ta.setSelectionRange(0, text.length);
-    const ok = document.execCommand('copy');
-    ta.remove();
-    return ok;
-  }
-}
-
 type Props = { movie: Movie; session: Session | null; theme: Theme; onClose: () => void };
+type Image = { url: string; file: File };
 
 export function ChoiceSheet({ movie: m, session: s, theme: t, onClose }: Props) {
-  const [step, setStep] = useState<'idle' | 'copied' | 'failed'>('idle');
-  const [story, setStory] = useState<string | null>(null);
+  const [image, setImage] = useState<Image | null>(null);
   const [busy, setBusy] = useState(false);
 
   useEffect(() => {
     if (!s) {
-      setStep('idle');
-      setStory(null);
+      setImage(null);
       return;
     }
     haptic([10, 50, 20]);
-    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose();
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && (image ? setImage(null) : onClose());
     addEventListener('keydown', onKey);
     return () => removeEventListener('keydown', onKey);
-  }, [s, onClose]);
+  }, [s, onClose, image]);
 
-  const sendInsta = async () => {
-    if (!s) return;
-    const ok = await copy(messageFor(m, s));
-    setStep(ok ? 'copied' : 'failed');
-    haptic(15);
-    // Laisse le temps de lire la consigne avant de basculer sur Instagram
-    setTimeout(() => (location.href = `https://ig.me/m/${INSTAGRAM}`), ok ? 1100 : 2200);
-  };
+  useEffect(() => () => { if (image) URL.revokeObjectURL(image.url); }, [image]);
 
-  const shareStory = async () => {
+  const create = async () => {
     if (!s || busy) return;
     setBusy(true);
     try {
       const blob = await storyImage(m, s, t);
       const file = new File([blob], `cinedule-${m.title.toLowerCase().replace(/\W+/g, '-')}.jpg`, { type: 'image/jpeg' });
-      if (navigator.canShare?.({ files: [file] })) {
-        await navigator.share({ files: [file] });
-      } else {
-        // Repli : on affiche l'image, un appui long permet de l'enregistrer
-        setStory(URL.createObjectURL(blob));
-      }
-    } catch {
-      /* partage annulé */
+      setImage({ url: URL.createObjectURL(blob), file });
+      haptic(15);
     } finally {
       setBusy(false);
+    }
+  };
+
+  // Le menu de partage natif n'existe pas partout (navigateur intégré d'Instagram notamment)
+  const canShare = !!image && !!navigator.canShare?.({ files: [image.file] });
+  const share = async () => {
+    if (!image) return;
+    try {
+      await navigator.share({ files: [image.file] });
+    } catch {
+      /* partage annulé */
     }
   };
 
@@ -144,53 +112,69 @@ export function ChoiceSheet({ movie: m, session: s, theme: t, onClose }: Props) 
             </div>
 
             <motion.button
-              onClick={sendInsta}
+              onClick={create}
               whileTap={{ scale: 0.97 }}
-              className="mt-7 flex w-full items-center justify-center gap-2.5 rounded-full py-4 text-[15px] font-bold"
+              className="mt-7 w-full rounded-full py-4 text-[15px] font-bold"
               style={{ background: 'var(--accent)', color: 'var(--accent-fg)' }}
             >
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden>
-                <rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="1" fill="currentColor" />
-              </svg>
-              <AnimatePresence mode="wait" initial={false}>
-                <motion.span key={step} initial={{ y: 10, opacity: 0 }} animate={{ y: 0, opacity: 1 }} exit={{ y: -10, opacity: 0 }} transition={{ duration: 0.2 }}>
-                  {step === 'idle' && 'Envoyer à Micka sur Insta'}
-                  {step === 'copied' && 'Message copié — colle-le !'}
-                  {step === 'failed' && 'Ouverture d’Instagram…'}
-                </motion.span>
-              </AnimatePresence>
+              {busy ? 'Préparation…' : 'Valider mon choix'}
             </motion.button>
 
-            <p className="mt-2.5 text-center text-[12px]" style={{ color: 'var(--muted)' }}>
-              {step === 'failed'
-                ? 'Copie impossible ici : écris-lui le film et l’horaire.'
-                : 'Le message est copié, la conversation s’ouvre : tu n’as plus qu’à coller.'}
-            </p>
-
-            <div className="mt-5 flex items-center justify-between text-[13px] font-semibold">
-              <button onClick={shareStory} className="underline underline-offset-4 decoration-1" style={{ textDecorationColor: 'var(--accent)' }}>
-                {busy ? 'Préparation…' : 'Image pour la story'}
-              </button>
-              <button onClick={onClose} style={{ color: 'var(--muted)' }}>
+            <div className="mt-4 text-center">
+              <button onClick={onClose} className="text-[13px] font-semibold" style={{ color: 'var(--muted)' }}>
                 Changer d’avis
               </button>
             </div>
-
           </motion.div>
-            <AnimatePresence>
-              {story && (
+
+          {/* L'image du choix, à envoyer en DM */}
+          <AnimatePresence>
+            {image && (
+              <motion.div
+                className="fixed inset-0 z-[75] flex flex-col items-center justify-center gap-5 bg-black px-6 py-[max(24px,env(safe-area-inset-top))]"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+              >
+                <motion.img
+                  src={image.url}
+                  alt={`Mon choix : ${m.title}, ${s.time.replace(':', 'h')}, ${cinemas[s.cinema].label}`}
+                  className="max-h-[64vh] rounded-xl shadow-2xl"
+                  initial={{ scale: 0.9, y: 20, opacity: 0 }}
+                  animate={{ scale: 1, y: 0, opacity: 1 }}
+                  transition={{ duration: 0.6, ease: EASE }}
+                />
                 <motion.div
-                  className="fixed inset-0 z-[75] flex flex-col items-center justify-center gap-4 bg-black/90 p-6"
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                  exit={{ opacity: 0 }}
-                  onClick={() => setStory(null)}
+                  className="text-center text-white"
+                  initial={{ opacity: 0, y: 10 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: 0.25, duration: 0.5, ease: EASE }}
                 >
-                  <img src={story} alt={`Story : ${m.title} ${s.time}`} className="max-h-[78vh] rounded-xl" />
-                  <p className="text-center text-[13px] font-semibold text-white/80">Appuie longuement sur l’image pour l’enregistrer</p>
+                  <p className="text-[17px] font-bold leading-snug">
+                    Envoie cette image à <span className="text-[#FF6B00]">{INSTAGRAM}</span>
+                    <br />en DM sur Insta
+                  </p>
+                  <p className="mt-1.5 text-[13px] text-white/60">
+                    {canShare ? 'Partage-la directement, ou fais une capture d’écran.' : 'Appuie longuement dessus pour l’enregistrer, ou fais une capture d’écran.'}
+                  </p>
                 </motion.div>
-              )}
-            </AnimatePresence>
+                <div className="flex w-full max-w-xs flex-col items-center gap-3">
+                  {canShare && (
+                    <motion.button
+                      onClick={share}
+                      whileTap={{ scale: 0.97 }}
+                      className="w-full rounded-full bg-white py-3.5 text-[15px] font-bold text-black"
+                    >
+                      Partager l’image
+                    </motion.button>
+                  )}
+                  <button onClick={() => setImage(null)} className="text-[13px] font-semibold text-white/60">
+                    Fermer l’image
+                  </button>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
         </motion.div>
       )}
     </AnimatePresence>
